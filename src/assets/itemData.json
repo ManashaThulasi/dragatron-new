@@ -1,0 +1,5 @@
+[
+    { "itemName": "Mobile", "itemDescription": "All mobiles", "itemPrice": 35000, "itemAdditionDate": "2020-01-23"},
+    { "itemName": "Laptop", "itemDescription": "All PCs", "itemPrice": 45000, "itemAdditionDate": "2020-01-16"},
+    { "itemName": "Refridgerator", "itemDescription": "All Fridges", "itemPrice": 58000, "itemAdditionDate": "2020-01-02"}
+]
